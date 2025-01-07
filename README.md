@@ -10,7 +10,7 @@ This repository contains the **MATH5741M coursework project**, focused on analyz
 - Provide insights into **breed-specific rehoming trends** to inform better adoption strategies.
 
 ## 📊 **Data Description**
-- **Dataset:** `mysample.RData` (Generated from `rehoming.Rdata` via student-specific sampling).  
+- **Dataset:** `Dog Rehoming Time Analysis.RData` (Generated from `rehoming.Rdata` via student-specific sampling).  
 - **Variables Included:**  
    - `Rehomed`: Total rehoming time (weeks).  
    - `Visited`: Time until the first visit by a potential owner (weeks).  
@@ -36,7 +36,6 @@ This repository contains the **MATH5741M coursework project**, focused on analyz
 6. **Insights and Discussion:** Identified trends, strengths, and limitations in the analysis.
 
 ## 📑 **Project Structure**
-- **/code:** R scripts for data cleaning, analysis, and visualization (`analysis_script.R`)  
 - **/report:** Final coursework report in PDF format (`MATH5741M_report.pdf`)  
 - **README.md:** Project documentation (This file)  
 
