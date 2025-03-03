@@ -47,7 +47,7 @@ This repository is focused on analyzing **dog rehoming times** across different 
 
 ## 🤝 **Acknowledgements**
 - **University of Leeds, School of Mathematics**  
-- **Dr. Stuart Barber** for guidance throughout the coursework.
+
 
 
 🚀 Thank you for exploring this project! Feel free to contribute, share feedback, or reach out for further discussions. 🐕📊
