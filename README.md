@@ -1,7 +1,7 @@
 # 🐾 **Analysis of Dog Rehoming Times Using Statistical Methods in R**
 
 ## 📚 **Project Overview**  
-This repository contains the **coursework project**, focused on analyzing **dog rehoming times** across different breeds using **statistical methods and R programming**. The objective was to investigate whether rehoming times vary significantly between breeds and identify patterns to aid in improving adoption strategies for animal shelters.
+This repository is focused on analyzing **dog rehoming times** across different breeds using **statistical methods and R programming**. The objective was to investigate whether rehoming times vary significantly between breeds and identify patterns to aid in improving adoption strategies for animal shelters.
 
 ## 🎯 **Project Objectives**
 - Analyze **rehoming times** for three dog breeds.  
